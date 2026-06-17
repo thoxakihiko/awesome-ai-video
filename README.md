@@ -50,6 +50,7 @@ Run, chain, and deploy the models above.
 - [Wan2GP](https://github.com/deepbeepmeep/Wan2GP) 🔓 — "AI video for the GPU-poor" — runs Wan 2.1/2.2, Hunyuan, and LTX on low-VRAM GPUs.
 - [fal.ai](https://fal.ai/) 💲 — Low-latency generative-media API hosting most major video models, including Seedance.
 - [Replicate](https://replicate.com/) 💲 — Run thousands of models (many video) via a simple API, no GPU management.
+- [Seedream AI Studio](https://seedream4.video/) 💲🆓 — ByteDance's multi-model platform that generates images via Seedream 5.0/4.5/4.0 (ranked #1 in AI Image Arena) and converts them to video via Kling 2.1 in one click. Supports up to 10 reference images. Free tier available.
 - [Hugging Face](https://huggingface.co/models?pipeline_tag=text-to-video) 🔓🆓 — Weights, demos, and Spaces for nearly every open video model.
 
 ## Prompting tools & guides
