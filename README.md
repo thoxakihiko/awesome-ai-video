@@ -48,6 +48,7 @@ Run, chain, and deploy the models above.
 
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) 🔓 — Node-based workflow UI; the de facto home for open-source video pipelines (Wan, Hunyuan, LTX, and more). See also [comfy.org](https://www.comfy.org/).
 - [Wan2GP](https://github.com/deepbeepmeep/Wan2GP) 🔓 — "AI video for the GPU-poor" — runs Wan 2.1/2.2, Hunyuan, and LTX on low-VRAM GPUs.
+- [Podframes](https://github.com/Jellypod-Inc/podframes) 🔓 — Local studio and CLI that turns one topic into a two-host AI podcast video with voices, lip-sync, captions, and MP4 rendering.
 - [fal.ai](https://fal.ai/) 💲 — Low-latency generative-media API hosting most major video models, including Seedance.
 - [Replicate](https://replicate.com/) 💲 — Run thousands of models (many video) via a simple API, no GPU management.
 - [Hugging Face](https://huggingface.co/models?pipeline_tag=text-to-video) 🔓🆓 — Weights, demos, and Spaces for nearly every open video model.
