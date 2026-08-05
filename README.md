@@ -51,6 +51,7 @@ Run, chain, and deploy the models above.
 - [fal.ai](https://fal.ai/) 💲 — Low-latency generative-media API hosting most major video models, including Seedance.
 - [Replicate](https://replicate.com/) 💲 — Run thousands of models (many video) via a simple API, no GPU management.
 - [Hugging Face](https://huggingface.co/models?pipeline_tag=text-to-video) 🔓🆓 — Weights, demos, and Spaces for nearly every open video model.
+- [Orkas VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) 🔓 — Turns plain-language instructions into source-editable video timelines with composition, editing, transcription, skills, and MCP tooling.
 
 ## Prompting tools & guides
 
