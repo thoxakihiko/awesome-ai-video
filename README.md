@@ -11,18 +11,27 @@ where to learn. Links go to official sources. Contributions welcome — see
 
 ## Contents
 
+- [What's new](#whats-new)
 - [Hosted models](#hosted-models)
 - [Open-source models](#open-source-models)
+- [Image models for keyframes & references](#image-models-for-keyframes--references)
 - [Tools & platforms](#tools--platforms)
 - [Prompting tools & guides](#prompting-tools--guides)
 - [Learning & communities](#learning--communities)
 - [Contributing](#contributing)
 
+## What's new
+
+- **Seedance 2.5** — 30s single-pass generation, multi-round extension, up to 30 image / 10 video / 10 audio references, new clay-render, motion, and creative references. Listed under Hosted models.
+- **GPT Image 2.5** — `@Sketch`, comment-based revisions, and two API models (Flare, Sunburst). Listed under Image models for keyframes & references.
+
+Full history in [CHANGELOG.md](CHANGELOG.md).
+
 ## Hosted models
 
 State-of-the-art commercial models you access via web app or API.
 
-- [Seedance 2.0](https://dreamina.capcut.com/) 💲🆓 — ByteDance's narrative-driven model with native multi-shot generation and synchronized audio in a single pass. Access via [Dreamina](https://dreamina.capcut.com/) (international) or the [BytePlus API](https://www.byteplus.com/en/product/seedance).
+- [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) 💲🆓 — ByteDance's narrative-driven model, now with 30-second single-pass generation (up from 15s in 2.0) and multi-round extension that keeps characters and environments consistent. Takes up to 30 images, 10 videos, and 10 audio references per prompt, adds clay-render (pose, motion path, camera angle), motion, and creative references, and supports timestamp-level, green-screen/background-replacement, camera-perspective, and reference-based editing. The 2.5 public API is coming soon via BytePlus ModelArk; Seedance 2.0 remains available via [Dreamina](https://dreamina.capcut.com/) (international) and the [BytePlus API](https://www.byteplus.com/en/product/seedance).
 - [Google Veo 3.1](https://deepmind.google/models/veo/) 💲 — Generates 48kHz synchronized dialogue, ambient sound, and music as part of the same diffusion pass. Usable through [Google Flow](https://labs.google/flow) and the Gemini app.
 - [Runway Gen-4.5](https://runwayml.com/) 💲🆓 — The most precise control surface for directors: motion brushes, scene consistency, and the GWM-1 world model.
 - [Kling 3.0](https://klingai.com/) 💲🆓 — Strong native audio and lip-sync across multiple languages, with a shared audio timeline across multi-shot sequences.
@@ -41,6 +50,12 @@ Models with public weights you can run yourself.
 - [LTX-Video](https://github.com/Lightricks/LTX-Video) 🔓 — Lightricks' DiT model built for speed — generates 1216×704 video faster than real time.
 - [Mochi 1](https://github.com/genmoai/models) 🔓 — Genmo's 10B Asymmetric Diffusion Transformer, released under Apache 2.0.
 - [CogVideoX](https://github.com/THUDM/CogVideo) 🔓 — Tsinghua/Zhipu's open text- and image-to-video model combining a 3D VAE with an expert Transformer.
+
+## Image models for keyframes & references
+
+Image models used to build start frames and reference images for image-to-video and reference-driven workflows.
+
+- [GPT Image 2.5](https://platform.openai.com/docs/guides/image-generation) 💲 — OpenAI's image model behind ChatGPT Images 2.5, with `@Sketch` input, comment annotations for revisions, more precise editing, and up to 50% lower latency than 2.0. The API ships two models: GPT-Image-2.5 Flare (fast, default) and Sunburst (premium, precise editing). ([announcement coverage](https://www.unite.ai/openai-releases-chatgpt-images-2-5-with-sketch-and-two-new-api-models/))
 
 ## Tools & platforms
 
