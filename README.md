@@ -31,7 +31,7 @@ Full history in [CHANGELOG.md](CHANGELOG.md).
 
 State-of-the-art commercial models you access via web app or API.
 
-- [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) 💲🆓 — ByteDance's narrative-driven model, now with 30-second single-pass generation (up from 15s in 2.0) and multi-round extension that keeps characters and environments consistent. Takes up to 30 images, 10 videos, and 10 audio references per prompt, adds clay-render (pose, motion path, camera angle), motion, and creative references, and supports timestamp-level, green-screen/background-replacement, camera-perspective, and reference-based editing. The 2.5 public API is coming soon via BytePlus ModelArk; Seedance 2.0 remains available via [Dreamina](https://dreamina.capcut.com/) (international) and the [BytePlus API](https://www.byteplus.com/en/product/seedance).
+- [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) 💲🆓 — ByteDance's narrative-driven model, now with 30-second single-pass generation (up from 15s in 2.0) and multi-round extension that keeps characters and environments consistent. Takes up to 30 images, 10 videos, and 10 audio references per prompt, adds clay-render (pose, motion path, camera angle), motion, and creative references, and supports timestamp-level, green-screen/background-replacement, camera-perspective, and reference-based editing. Available on [Dreamina](https://dreamina.capcut.com/) (international) and via API on [BytePlus ModelArk](https://www.byteplus.com/en/product/seedance); Seedance 2.0 remains available on both.
 - [Google Veo 3.1](https://deepmind.google/models/veo/) 💲 — Generates 48kHz synchronized dialogue, ambient sound, and music as part of the same diffusion pass. Usable through [Google Flow](https://labs.google/flow) and the Gemini app.
 - [Runway Gen-4.5](https://runwayml.com/) 💲🆓 — The most precise control surface for directors: motion brushes, scene consistency, and the GWM-1 world model.
 - [Kling 3.0](https://klingai.com/) 💲🆓 — Strong native audio and lip-sync across multiple languages, with a shared audio timeline across multi-shot sequences.
@@ -55,7 +55,7 @@ Models with public weights you can run yourself.
 
 Image models used to build start frames and reference images for image-to-video and reference-driven workflows.
 
-- [GPT Image 2.5](https://platform.openai.com/docs/guides/image-generation) 💲 — OpenAI's image model behind ChatGPT Images 2.5, with `@Sketch` input, comment annotations for revisions, more precise editing, and up to 50% lower latency than 2.0. The API ships two models: GPT-Image-2.5 Flare (fast, default) and Sunburst (premium, precise editing). ([announcement coverage](https://www.unite.ai/openai-releases-chatgpt-images-2-5-with-sketch-and-two-new-api-models/))
+- [GPT Image 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/) 💲 — OpenAI's image model behind ChatGPT Images 2.5, with `@Sketch` input, comment annotations for revisions, more precise editing, and up to 50% lower latency than 2.0. The API ships two models: GPT-Image-2.5 Flare (fast, default) and Sunburst (premium, precise editing).
 
 ## Tools & platforms
 

@@ -2,6 +2,13 @@
 
 Notable changes to this list.
 
+## 2026-09-27 (fact check)
+
+### Changed
+- **Seedance 2.5**: the API is live on BytePlus ModelArk — removed "coming
+  soon" wording.
+- **GPT Image 2.5**: link now points to OpenAI's official announcement.
+
 ## 2026-09-27 (later)
 
 ### Changed
