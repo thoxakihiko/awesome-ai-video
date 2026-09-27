@@ -2,7 +2,7 @@
 
 > A curated list of the best AI text-to-video & image-to-video models, tools, and resources.
 
-The space moves fast — this list focuses on what's actually usable today (mid-2026):
+The space moves fast — this list focuses on what's actually usable today (late 2026):
 hosted models, open-source models you can self-host, the tooling around them, and
 where to learn. Links go to official sources. Contributions welcome — see
 [Contributing](#contributing).
@@ -39,7 +39,7 @@ State-of-the-art commercial models you access via web app or API.
 - [MiniMax Hailuo](https://hailuoai.video/) 💲🆓 — The 2026 value pick: quality between Pika and Runway at noticeably lower pricing.
 - [Pika](https://pika.art/) 💲🆓 — Fast and accessible, great for short-form creative iteration and effects.
 - [PixVerse](https://pixverse.ai/) 💲🆓 — Popular for stylized short-form and social video, with a generous free tier.
-- [OpenAI Sora](https://openai.com/sora) 💲 — ⚠️ Being wound down: the web/app experience was discontinued April 26, 2026 and the API is scheduled to end September 24, 2026. Plan migrations to Veo, Kling, Runway, or Seedance.
+- [OpenAI Sora](https://openai.com/sora) 💲 — ⚠️ Wound down: the web/app experience was discontinued April 26, 2026, and the API was scheduled to end September 24, 2026 — that date has passed. Migrate to Veo, Kling, Runway, or Seedance.
 
 ## Open-source models
 

@@ -2,6 +2,13 @@
 
 Notable changes to this list.
 
+## 2026-09-27 (later)
+
+### Changed
+- **OpenAI Sora**: API end date (September 24, 2026) is now in the past;
+  wording updated from "scheduled to end" to past tense.
+- Intro timeframe updated from "mid-2026" to "late 2026".
+
 ## 2026-09-27
 
 ### Added
