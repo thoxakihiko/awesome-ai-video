@@ -59,6 +59,7 @@ Image models used to build start frames and reference images for image-to-video 
 
 ## Tools & platforms
 
+- [ReelWorkshop](https://reelworkshop.com) - Remix clips into short-form compilations for Reels, Shorts, TikTok, and Facebook.
 Run, chain, and deploy the models above.
 
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) 🔓 — Node-based workflow UI; the de facto home for open-source video pipelines (Wan, Hunyuan, LTX, and more). See also [comfy.org](https://www.comfy.org/).
