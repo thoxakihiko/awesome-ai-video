@@ -38,6 +38,7 @@ State-of-the-art commercial models you access via web app or API.
 - [Luma Ray3](https://lumalabs.ai/dream-machine) 💲🆓 — The first AI video model with native 16-bit HDR output. Part of Dream Machine.
 - [MiniMax Hailuo](https://hailuoai.video/) 💲🆓 — The 2026 value pick: quality between Pika and Runway at noticeably lower pricing.
 - [Pika](https://pika.art/) 💲🆓 — Fast and accessible, great for short-form creative iteration and effects.
+- [Ideoy](https://ideoy.ai/) 💲🆓 — Remake trending short-form video templates from one photo or selfie.
 - [PixVerse](https://pixverse.ai/) 💲🆓 — Popular for stylized short-form and social video, with a generous free tier.
 - [OpenAI Sora](https://openai.com/sora) 💲 — ⚠️ Wound down: the web/app experience was discontinued April 26, 2026, and the API was scheduled to end September 24, 2026 — that date has passed. Migrate to Veo, Kling, Runway, or Seedance.
 
