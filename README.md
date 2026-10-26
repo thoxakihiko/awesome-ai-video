@@ -76,6 +76,8 @@ Get better, more consistent output.
 - [Runway Help Center](https://help.runwayml.com/) — Official prompting and feature guides for Gen-4.x.
 - [Kling AI](https://klingai.com/) — In-app prompt examples and templates.
 
+- [Imgmov AI video prompt-writing guide](https://imgmov.com/blog/2026-07-27-ai-video-prompt-writing-guide) — Written introduction to planning one-action shots, camera movement, stable reference details, and prompt revisions.
+
 ## Learning & communities
 
 - [r/aivideo](https://www.reddit.com/r/aivideo/) — General AI video generation community.
