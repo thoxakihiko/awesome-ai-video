@@ -66,6 +66,7 @@ Run, chain, and deploy the models above.
 - [fal.ai](https://fal.ai/) 💲 — Low-latency generative-media API hosting most major video models, including Seedance.
 - [Replicate](https://replicate.com/) 💲 — Run thousands of models (many video) via a simple API, no GPU management.
 - [Hugging Face](https://huggingface.co/models?pipeline_tag=text-to-video) 🔓🆓 — Weights, demos, and Spaces for nearly every open video model.
+- [Dance AI Generator](https://danceaigenerator.com/) 💲 — Single-purpose web app that turns one photo of a person or pet into a 6-second 9:16 dance clip.
 
 ## Prompting tools & guides
 
