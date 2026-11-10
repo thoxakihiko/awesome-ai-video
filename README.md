@@ -75,6 +75,7 @@ Get better, more consistent output.
 - [shotlist-forge](https://github.com/thoxakihiko/shotlist-forge) 🔓 — Expands one concept into a structured, shot-by-shot prompt sequence (built on seedance-prompt-forge).
 - [Runway Help Center](https://help.runwayml.com/) — Official prompting and feature guides for Gen-4.x.
 - [Kling AI](https://klingai.com/) — In-app prompt examples and templates.
+- [Prompt Generator](https://trypromptgenerator.com/video-prompt-generator) 💲🆓 — Writes video prompts for Veo, Sora, Kling, Seedance, and Runway with shot, camera, motion, and light cues; free daily allowance, no sign-up.
 
 ## Learning & communities
 
