@@ -61,6 +61,8 @@ Image models used to build start frames and reference images for image-to-video 
 
 Run, chain, and deploy the models above.
 
+- [Kling MCP & CLI](https://kling.ai/app/mcp/guide) 💲 — Connect supported AI assistants or command-line workflows to Kling image and video generation through OAuth; generation uses paid personal-workspace credits.
+
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) 🔓 — Node-based workflow UI; the de facto home for open-source video pipelines (Wan, Hunyuan, LTX, and more). See also [comfy.org](https://www.comfy.org/).
 - [Wan2GP](https://github.com/deepbeepmeep/Wan2GP) 🔓 — "AI video for the GPU-poor" — runs Wan 2.1/2.2, Hunyuan, and LTX on low-VRAM GPUs.
 - [fal.ai](https://fal.ai/) 💲 — Low-latency generative-media API hosting most major video models, including Seedance.
